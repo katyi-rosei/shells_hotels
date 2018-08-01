@@ -1,18 +1,19 @@
 h1{
-  color: black;
+  color: pink;
 }
 h2{
-  color: pink;
+  color: black;
 }
 p{
-  color: pink;
+  color: black;
 }
 img{
-  height:75;
+  height:100;
   width:auto;
+  margin-bottom: auto;
 }
 h3{
-  color: pink;
+  color: black;
 }
 .jumbotron{
   color: black;
