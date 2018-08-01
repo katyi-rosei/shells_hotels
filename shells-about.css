@@ -1,5 +1,7 @@
 h1{
-  color: pink;
+  color: turquoise;
+  font-size: 42;
+  margin-bottom: auto;
 }
 h2{
   color: black;
@@ -17,5 +19,9 @@ h3{
 }
 .jumbotron{
   color: black;
-  background-color: #BAFFF6;
+  background-color: #FCF4DC;
+}
+button{
+  color: black;
+  background-color:#FCDBFF;
 }
