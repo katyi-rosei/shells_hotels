@@ -1,14 +1,20 @@
 h1{
-  color: turquoise;
+  color: black;
 }
 h2{
-  color: black;
+  color: pink;
+}
+p{
+  color: pink;
 }
 img{
   height:75;
   width:auto;
 }
+h3{
+  color: pink;
+}
 .jumbotron{
   color: black;
-  background-color: turquoise;
+  background-color: #BAFFF6;
 }
