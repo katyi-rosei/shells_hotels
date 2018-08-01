@@ -8,3 +8,7 @@ img{
   height:75;
   width:auto;
 }
+.jumbotron{
+  color: black;
+  background-color: turquoise;
+}
