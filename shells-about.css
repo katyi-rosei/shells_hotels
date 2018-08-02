@@ -25,3 +25,7 @@ button{
   color: black;
   background-color:#FCDBFF;
 }
+.carousel-item img{
+height:300px;
+width:auto;
+}
