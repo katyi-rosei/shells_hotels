@@ -13,7 +13,19 @@ img {
 }
 
 .jumbotron {
+  background-color: #FFFFFF
+}
+
+.jumbotron-dark {
+  background-color:#d6fce7
+}
+
+.jumbotron-other {
   background-color: #FCF4D6
+}
+
+.jumbotron-blue {
+  background-color: #ccf3ff
 }
 
 button {
