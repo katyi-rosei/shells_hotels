@@ -22,7 +22,7 @@ button {
 }
 
 .navbar-header {
-  height:120px;
+  height:60px;
 }
 
 .searchBar {
@@ -46,7 +46,7 @@ button {
     color: white; /* White text color */
 }
 
-.html {width: 90%; background-color: #4CAF50;}
+.html {width: 90%; background-color: #F7D3FF;}
 .css {width: 5%; background-color: #2196F3;}
 .js {width: 3.5%; background-color: #f44336;}
 .php {width: 1.5%; background-color: #808080;}
