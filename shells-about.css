@@ -2,6 +2,7 @@ h1{
   color: turquoise;
   font-size: 42;
   margin-bottom: auto;
+  float:middle;
 }
 h2{
   color: black;
@@ -41,7 +42,7 @@ body {font-family: Verdana, sans-serif;}
 .month {
     padding: 70px 25px;
     width: 100%;
-    background: #1abc9c;
+    background: #F4DBFF;
     text-align: center;
 }
 .month ul {
@@ -49,7 +50,7 @@ body {font-family: Verdana, sans-serif;}
     padding: 0;
 }
 .month ul li {
-    color: white;
+    color: black;
     font-size: 20px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -89,6 +90,6 @@ body {font-family: Verdana, sans-serif;}
 }
 .days li .active {
     padding: 5px;
-    background: #1abc9c;
-    color: white !important
+    background: #F4DBFF;
+    color: black !important
 }
