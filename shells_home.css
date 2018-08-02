@@ -21,6 +21,6 @@ button {
 
 }
 
-.navbar navbar-defult {
-  width: auto;
+.navbar-header {
+  height:120px;
 }
