@@ -1,11 +1,26 @@
 h1 {
   color: turquoise;
-  font: arial;
-  font-family: sans-serif;
+  font-family:'arial'sans-serif;
+  font-size: 42;
+  margin bottom:: auto;
 }
 
 img {
-  height: 75;
+  height: 100;
   width: auto;
+  margin-bottom: auto;
 
+}
+
+.jumbotron {
+  background-color: #FCF4D6
+}
+
+button {
+  background-color:#C5F9F9
+
+}
+
+.navbar navbar-defult {
+  width: auto;
 }
