@@ -29,3 +29,6 @@ button{
 height:300px;
 width:auto;
 }
+.navbar-header {
+  height:120px;
+}
