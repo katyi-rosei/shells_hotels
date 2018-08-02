@@ -23,12 +23,16 @@ h3{
 }
 button{
   color: black;
-  background-color:#FCDBFF;
+  background-color:#C5F9F9;
 }
 .carousel-item img{
 height:300px;
 width:auto;
 }
 .navbar-header {
-  height:120px;
+  height:60px;
+}
+.searchBar{
+  margin-top: 7px;
+  float:right;
 }
